@@ -92,6 +92,14 @@ Section 17 -
 - Isolated From Disasters
 - Ultra Low Latency
 
-3: 
+## Identity and Access Management
+
+* It is a Global Service
+* Least Privilege Principle 
+* Users Groups and Roles
+  * Users: Individual Person is allowed to individual services inside AWS
+  * Group: Group of Users assigned to use services 
+  * Roles: Groups of services to make accessible by users or Groups
+* Policies: A group of persons assigned a same role 
   
 

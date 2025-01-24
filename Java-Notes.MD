@@ -65,4 +65,37 @@
 * ***All These are divided into two categories***
   * Unary Operator (Can operate with single variable)
   * Binary Operators (Can operate with double variable)
-  * Ternary Operator 
+  * Ternary Operator (Can operate with three variables)
+
+* Working Programs
+  * Swapping of the 2 numbers (Without temporary)
+
+## Control Statements
+
+* if 
+  * **Syntax:** : `if (condition = true) {statements will get executed} `
+* if else
+* nested if-else
+* Switch-Case
+
+## Looping/Iterative Statements
+
+* While Loop
+* Do While Loop
+* For Loop
+* Enhanced Loop / For each Loop
+
+## Jumping Statements
+
+* Break : Like a skip a step from here 
+* Continue : skip the particular and proceed with next elements 
+
+## Arrays
+
+* Similar elements to be stored in a Data Structure is called Array
+* Brute--> Better --> Optimal Solution Patterns
+* Collection of Similar elements 
+* **Two Types of Arrays**
+  * Single Dimensional 
+  * Two Dimensional
+* 

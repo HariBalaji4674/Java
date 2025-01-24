@@ -1,3 +1,5 @@
+package Concepts;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
@@ -17,6 +19,56 @@ public class Main {
 
         int x = (3 >= 2) ? 100:200;
         System.out.println(x);
+        int age = 19;
+        if (age >= 18){
+            if (age == 18){
+                System.out.println("You are just Crossed 18 Why don't you wait");
+            }
+            else {
+                System.out.println("These people are Eligible for Vote");
+            }
+        }
+        else {
+            System.out.println("You are not eligible for vote");
+        }
+        int number = 20;
+        if (number % 2 == 0){
+            System.out.println("Number is a Even "+ number);
+        }
+        else {
+            System.out.println("number is odd number");
+        }
+        number = -10;
+        if (number > 0 ){
+            System.out.println("The number is positive");
+        }
+        else {
+            System.out.println("The Number is Negative Number");
+        }
+
+        number = 30;
+        if(number >= 60){
+            System.out.println("You got extra ordinary marks");
+        } else if (number >=35 && number <=60) {
+            System.out.println("You are Just miss you got just pass marks");
+        }else {
+            System.out.println("Sorry My Bad You Failed the Exam");
+        }
+
+        a = 20 ;
+        b = 30;
+        int c =40 ;
+        if (a>b && a >c){
+            System.out.println("A is greater number");
+        } else if (b>a && b>c) {
+            System.out.println("B is greater number");
+        }else {
+            System.out.println("C is greater number");
+        }
+
+        System.out.println("Jumping statements");
+        // break and
+
 
 
     }
